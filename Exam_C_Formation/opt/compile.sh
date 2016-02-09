@@ -1,0 +1,2 @@
+gcc -Werror -Wall -Wextra $*
+
